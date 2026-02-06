@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Início",
+    "scholarships": "Bolsas",
+    "featured": "Destaques",
+    "contact": "Contato",
+    "about": "Sobre"
+  },
+  "hero": {
+    "title": "Encontre Sua Bolsa Perfeita",
+    "subtitle": "Descubra milhares de bolsas em todo o mundo. Analisamos a internet diariamente para trazer as últimas oportunidades.",
+    "searchPlaceholder": "Pesquisar bolsas por nome, país ou área...",
+    "searchButton": "Pesquisar",
+    "stats": {
+      "scholarships": "Bolsas",
+      "countries": "Países",
+      "dailyUpdates": "Atualizações Diárias"
+    }
+  },
+  "filters": {
+    "title": "Filtrar Bolsas",
+    "country": "País",
+    "degreeLevel": "Nível de Graduação",
+    "subject": "Assunto",
+    "all": "Todos",
+    "reset": "Redefinir Filtros",
+    "apply": "Aplicar Filtros"
+  },
+  "scholarship": {
+    "deadline": "Prazo",
+    "amount": "Valor",
+    "country": "País",
+    "degree": "Nível de Graduação",
+    "subject": "Assunto",
+    "provider": "Instituição",
+    "eligibility": "Elegibilidade",
+    "applyNow": "Candidatar-se Agora",
+    "learnMore": "Saiba Mais",
+    "noDeadlines": "Nenhum prazo especificado",
+    "featured": "Bolsa em Destaque"
+  },
+  "featured": {
+    "title": "Bolsas em Destaque",
+    "subtitle": "Oportunidades selecionadas das melhores instituições mundiais",
+    "viewAll": "Ver Todas as Bolsas"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Tem dúvidas? Estamos aqui para ajudá-lo a encontrar a oportunidade perfeita.",
+    "form": {
+      "name": "Seu Nome",
+      "email": "Endereço de Email",
+      "phone": "Número de Telefone (Opcional)",
+      "subject": "Assunto",
+      "message": "Sua Mensagem",
+      "send": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "success": "Mensagem enviada com sucesso! Responderemos em breve.",
+      "error": "Falha ao enviar mensagem. Por favor, tente novamente."
+    },
+    "info": {
+      "title": "Fale Conosco",
+      "phone": "Telefone",
+      "email": "Email",
+      "hours": "Horário de Funcionamento",
+      "hoursValue": "Segunda - Sexta, 9h - 18h GMT"
+    },
+    "phones": {
+      "ghana": "Gana: +233 549 307 901",
+      "china": "China: +86 132 5569 6140"
+    }
+  },
+  "footer": {
+    "tagline": "Sua porta de entrada para oportunidades de educação global",
+    "quickLinks": "Links Rápidos",
+    "resources": "Recursos",
+    "newsletter": {
+      "title": "Assine Nossa Newsletter",
+      "placeholder": "Digite seu email",
+      "subscribe": "Assinar",
+      "success": "Obrigado por se inscrever!"
+    },
+    "rights": "Todos os direitos reservados",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço"
+  },
+  "language": {
+    "select": "Selecionar Idioma",
+    "english": "Inglês",
+    "french": "Francês",
+    "portuguese": "Português",
+    "german": "Alemão",
+    "arabic": "Árabe",
+    "chinese": "Chinês"
+  },
+  "loading": "Carregando...",
+  "error": "Algo deu errado. Por favor, tente novamente.",
+  "noResults": "Nenhuma bolsa encontrada correspondente aos seus critérios.",
+  "tryAgain": "Tente ajustar seus filtros ou termo de pesquisa."
+}

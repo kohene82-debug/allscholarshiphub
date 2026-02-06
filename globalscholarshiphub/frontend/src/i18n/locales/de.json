@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "scholarships": "Stipendien",
+    "featured": "Empfohlen",
+    "contact": "Kontakt",
+    "about": "Über Uns"
+  },
+  "hero": {
+    "title": "Finden Sie Ihr Perfektes Stipendium",
+    "subtitle": "Entdecken Sie Tausende von Stipendien weltweit. Wir durchsuchen das Internet täglich, um Ihnen die neuesten Möglichkeiten zu bieten.",
+    "searchPlaceholder": "Stipendien nach Name, Land oder Fachbereich suchen...",
+    "searchButton": "Suchen",
+    "stats": {
+      "scholarships": "Stipendien",
+      "countries": "Länder",
+      "dailyUpdates": "Tägliche Updates"
+    }
+  },
+  "filters": {
+    "title": "Stipendien Filtern",
+    "country": "Land",
+    "degreeLevel": "Studienstufe",
+    "subject": "Fach",
+    "all": "Alle",
+    "reset": "Filter Zurücksetzen",
+    "apply": "Filter Anwenden"
+  },
+  "scholarship": {
+    "deadline": "Bewerbungsfrist",
+    "amount": "Betrag",
+    "country": "Land",
+    "degree": "Studienstufe",
+    "subject": "Fach",
+    "provider": "Anbieter",
+    "eligibility": "Berechtigung",
+    "applyNow": "Jetzt Bewerben",
+    "learnMore": "Mehr Erfahren",
+    "noDeadlines": "Keine Frist angegeben",
+    "featured": "Empfohlenes Stipendium"
+  },
+  "featured": {
+    "title": "Empfohlene Stipendien",
+    "subtitle": "Handverlesene Möglichkeiten von führenden Institutionen weltweit",
+    "viewAll": "Alle Stipendien Anzeigen"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie Uns",
+    "subtitle": "Haben Sie Fragen? Wir helfen Ihnen gerne bei der Suche nach dem perfekten Stipendium.",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer (Optional)",
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht Senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet! Wir melden uns bald bei Ihnen.",
+      "error": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    },
+    "info": {
+      "title": "Kontaktieren Sie Uns",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "hours": "Öffnungszeiten",
+      "hoursValue": "Montag - Freitag, 9:00 - 18:00 Uhr GMT"
+    },
+    "phones": {
+      "ghana": "Ghana: +233 549 307 901",
+      "china": "China: +86 132 5569 6140"
+    }
+  },
+  "footer": {
+    "tagline": "Ihr Tor zu globalen Bildungsmöglichkeiten",
+    "quickLinks": "Schnelllinks",
+    "resources": "Ressourcen",
+    "newsletter": {
+      "title": "Newsletter Abonnieren",
+      "placeholder": "E-Mail eingeben",
+      "subscribe": "Abonnieren",
+      "success": "Vielen Dank für Ihr Abonnement!"
+    },
+    "rights": "Alle Rechte vorbehalten",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen"
+  },
+  "language": {
+    "select": "Sprache Auswählen",
+    "english": "Englisch",
+    "french": "Französisch",
+    "portuguese": "Portugiesisch",
+    "german": "Deutsch",
+    "arabic": "Arabisch",
+    "chinese": "Chinesisch"
+  },
+  "loading": "Wird geladen...",
+  "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+  "noResults": "Keine Stipendien gefunden, die Ihren Kriterien entsprechen.",
+    "tryAgain": "Versuchen Sie, Ihre Filter oder Suchanfrage anzupassen."
+}

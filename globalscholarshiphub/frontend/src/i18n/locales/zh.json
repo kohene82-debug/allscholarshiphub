@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "首页",
+    "scholarships": "奖学金",
+    "featured": "精选",
+    "contact": "联系我们",
+    "about": "关于我们"
+  },
+  "hero": {
+    "title": "找到您的完美奖学金",
+    "subtitle": "发现全球数千个奖学金机会。我们每天扫描互联网，为您带来最新的机会。",
+    "searchPlaceholder": "按名称、国家或领域搜索奖学金...",
+    "searchButton": "搜索",
+    "stats": {
+      "scholarships": "奖学金",
+      "countries": "国家",
+      "dailyUpdates": "每日更新"
+    }
+  },
+  "filters": {
+    "title": "筛选奖学金",
+    "country": "国家",
+    "degreeLevel": "学位级别",
+    "subject": "学科",
+    "all": "全部",
+    "reset": "重置筛选",
+    "apply": "应用筛选"
+  },
+  "scholarship": {
+    "deadline": "截止日期",
+    "amount": "金额",
+    "country": "国家",
+    "degree": "学位级别",
+    "subject": "学科",
+    "provider": "提供机构",
+    "eligibility": "资格要求",
+    "applyNow": "立即申请",
+    "learnMore": "了解更多",
+    "noDeadlines": "未指定截止日期",
+    "featured": "精选奖学金"
+  },
+  "featured": {
+    "title": "精选奖学金",
+    "subtitle": "来自全球顶尖机构的精选机会",
+    "viewAll": "查看所有奖学金"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "有问题？我们随时帮助您找到完美的奖学金机会。",
+    "form": {
+      "name": "您的姓名",
+      "email": "电子邮件地址",
+      "phone": "电话号码（可选）",
+      "subject": "主题",
+      "message": "您的留言",
+      "send": "发送留言",
+      "sending": "发送中...",
+      "success": "留言发送成功！我们会尽快回复您。",
+      "error": "发送留言失败。请重试。"
+    },
+    "info": {
+      "title": "联系我们",
+      "phone": "电话",
+      "email": "电子邮件",
+      "hours": "工作时间",
+      "hoursValue": "周一至周五，上午9点 - 下午6点 GMT"
+    },
+    "phones": {
+      "ghana": "加纳：+233 549 307 901",
+      "china": "中国：+86 132 5569 6140"
+    }
+  },
+  "footer": {
+    "tagline": "您通往全球教育机会的门户",
+    "quickLinks": "快速链接",
+    "resources": "资源",
+    "newsletter": {
+      "title": "订阅我们的新闻通讯",
+      "placeholder": "输入您的电子邮件",
+      "subscribe": "订阅",
+      "success": "感谢您的订阅！"
+    },
+    "rights": "版权所有",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "language": {
+    "select": "选择语言",
+    "english": "英语",
+    "french": "法语",
+    "portuguese": "葡萄牙语",
+    "german": "德语",
+    "arabic": "阿拉伯语",
+    "chinese": "中文"
+  },
+  "loading": "加载中...",
+  "error": "出了点问题。请重试。",
+  "noResults": "未找到符合您条件的奖学金。",
+  "tryAgain": "尝试调整您的筛选条件或搜索词。"
+}
