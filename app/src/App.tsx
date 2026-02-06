@@ -9,6 +9,7 @@ import { Contact } from './sections/Contact';
 import { Footer } from './sections/Footer';
 import { ScholarshipModal } from './components/ScholarshipModal';
 import { Toaster } from '@/components/ui/sonner';
+import { mockScholarships } from './data/mockScholarships';
 import type { Scholarship } from './types/scholarship';
 import './App.css';
 
@@ -35,8 +36,8 @@ function App() {
         // const data = await response.json();
         // setScholarships(data);
         
-        // For now, we'll use the sample data in components
-        setScholarships([]);
+        // For now, we'll use mock data
+        setScholarships(mockScholarships);
         setIsLoading(false);
       } catch (error) {
         console.error('Error fetching scholarships:', error);
