@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "scholarships": "Scholarships",
+    "featured": "Featured",
+    "contact": "Contact Us",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Find Your Perfect Scholarship",
+    "subtitle": "Discover thousands of scholarships worldwide. We scan the internet daily to bring you the latest opportunities.",
+    "searchPlaceholder": "Search scholarships by name, country, or field...",
+    "searchButton": "Search",
+    "stats": {
+      "scholarships": "Scholarships",
+      "countries": "Countries",
+      "dailyUpdates": "Daily Updates"
+    }
+  },
+  "filters": {
+    "title": "Filter Scholarships",
+    "country": "Country",
+    "degreeLevel": "Degree Level",
+    "subject": "Subject",
+    "all": "All",
+    "reset": "Reset Filters",
+    "apply": "Apply Filters"
+  },
+  "scholarship": {
+    "deadline": "Deadline",
+    "amount": "Amount",
+    "country": "Country",
+    "degree": "Degree Level",
+    "subject": "Subject",
+    "provider": "Provider",
+    "eligibility": "Eligibility",
+    "applyNow": "Apply Now",
+    "learnMore": "Learn More",
+    "noDeadlines": "No deadline specified",
+    "featured": "Featured Scholarship"
+  },
+  "featured": {
+    "title": "Featured Scholarships",
+    "subtitle": "Hand-picked opportunities from top institutions worldwide",
+    "viewAll": "View All Scholarships"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We're here to help you find the perfect scholarship opportunity.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number (Optional)",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "title": "Get in Touch",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours",
+      "hoursValue": "Monday - Friday, 9AM - 6PM GMT"
+    },
+    "phones": {
+      "ghana": "Ghana: +233 549 307 901",
+      "china": "China: +86 132 5569 6140"
+    }
+  },
+  "footer": {
+    "tagline": "Your gateway to global education opportunities",
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "success": "Thank you for subscribing!"
+    },
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "select": "Select Language",
+    "english": "English",
+    "french": "French",
+    "portuguese": "Portuguese",
+    "german": "German",
+    "arabic": "Arabic",
+    "chinese": "Chinese"
+  },
+  "loading": "Loading...",
+  "error": "Something went wrong. Please try again.",
+  "noResults": "No scholarships found matching your criteria.",
+  "tryAgain": "Try adjusting your filters or search query."
+}

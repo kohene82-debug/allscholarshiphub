@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "scholarships": "Bourses",
+    "featured": "En Vedette",
+    "contact": "Contactez-nous",
+    "about": "À Propos"
+  },
+  "hero": {
+    "title": "Trouvez Votre Bourse Idéale",
+    "subtitle": "Découvrez des milliers de bourses dans le monde entier. Nous analysons Internet quotidiennement pour vous apporter les dernières opportunités.",
+    "searchPlaceholder": "Rechercher des bourses par nom, pays ou domaine...",
+    "searchButton": "Rechercher",
+    "stats": {
+      "scholarships": "Bourses",
+      "countries": "Pays",
+      "dailyUpdates": "Mises à Jour Quotidiennes"
+    }
+  },
+  "filters": {
+    "title": "Filtrer les Bourses",
+    "country": "Pays",
+    "degreeLevel": "Niveau d'Études",
+    "subject": "Matière",
+    "all": "Tous",
+    "reset": "Réinitialiser les Filtres",
+    "apply": "Appliquer les Filtres"
+  },
+  "scholarship": {
+    "deadline": "Date Limite",
+    "amount": "Montant",
+    "country": "Pays",
+    "degree": "Niveau d'Études",
+    "subject": "Matière",
+    "provider": "Fournisseur",
+    "eligibility": "Admissibilité",
+    "applyNow": "Postuler Maintenant",
+    "learnMore": "En Savoir Plus",
+    "noDeadlines": "Aucune date limite spécifiée",
+    "featured": "Bourse en Vedette"
+  },
+  "featured": {
+    "title": "Bourses en Vedette",
+    "subtitle": "Opportunités sélectionnées des meilleures institutions mondiales",
+    "viewAll": "Voir Toutes les Bourses"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez des questions ? Nous sommes là pour vous aider à trouver la bourse parfaite.",
+    "form": {
+      "name": "Votre Nom",
+      "email": "Adresse Email",
+      "phone": "Numéro de Téléphone (Optionnel)",
+      "subject": "Sujet",
+      "message": "Votre Message",
+      "send": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès ! Nous vous répondrons bientôt.",
+      "error": "Échec de l'envoi du message. Veuillez réessayer."
+    },
+    "info": {
+      "title": "Contactez-nous",
+      "phone": "Téléphone",
+      "email": "Email",
+      "hours": "Heures de Travail",
+      "hoursValue": "Lundi - Vendredi, 9h - 18h GMT"
+    },
+    "phones": {
+      "ghana": "Ghana : +233 549 307 901",
+      "china": "Chine : +86 132 5569 6140"
+    }
+  },
+  "footer": {
+    "tagline": "Votre passerelle vers les opportunités d'éducation mondiales",
+    "quickLinks": "Liens Rapides",
+    "resources": "Ressources",
+    "newsletter": {
+      "title": "Abonnez-vous à Notre Newsletter",
+      "placeholder": "Entrez votre email",
+      "subscribe": "S'abonner",
+      "success": "Merci de votre abonnement !"
+    },
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  },
+  "language": {
+    "select": "Choisir la Langue",
+    "english": "Anglais",
+    "french": "Français",
+    "portuguese": "Portugais",
+    "german": "Allemand",
+    "arabic": "Arabe",
+    "chinese": "Chinois"
+  },
+  "loading": "Chargement...",
+  "error": "Une erreur s'est produite. Veuillez réessayer.",
+  "noResults": "Aucune bourse trouvée correspondant à vos critères.",
+  "tryAgain": "Essayez d'ajuster vos filtres ou votre recherche."
+}
