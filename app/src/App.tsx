@@ -27,20 +27,27 @@ function App() {
     document.dir = i18n.language === 'ar' ? 'rtl' : 'ltr';
   }, [i18n.language]);
 
-  // Fetch scholarships from API (simulated)
+  // Fetch scholarships from JSON file
   useEffect(() => {
     const fetchScholarships = async () => {
       try {
-        // In production, this would be a real API call
-        // const response = await fetch('/api/scholarships');
-        // const data = await response.json();
-        // setScholarships(data);
+        // Try to fetch from the scholarships.json file
+        const basePath = import.meta.env.BASE_URL || '/';
+        const response = await fetch(`${basePath}scholarships.json`);
         
-        // For now, we'll use mock data
-        setScholarships(mockScholarships);
-        setIsLoading(false);
+        if (response.ok) {
+          const data = await response.json();
+          setScholarships(Array.isArray(data) ? data : []);
+          console.info(`Loaded ${data.length} scholarships from JSON`);
+        } else {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
       } catch (error) {
         console.error('Error fetching scholarships:', error);
+        // Fallback to mock data if JSON fetch fails
+        console.log('Using fallback mock data');
+        setScholarships(mockScholarships);
+      } finally {
         setIsLoading(false);
       }
     };
